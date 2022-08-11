@@ -1,0 +1,4 @@
+# While Python Exercise | Aug2022
+
+## Input until the user stop
+- Let's create a sales system using while. The program must record the product and the quantities (2 inputs) and add them to a list.
